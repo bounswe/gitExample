@@ -1,2 +1,3 @@
 The second functionality
 API implementation
+Functionality is improved within the new branch
